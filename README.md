@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vernwalker
-- 👀 I’m interested in Sim racing, programming and video games
-- 🌱 I’m currently learning Game Development and VR Development
+- 👀 I’m aspire to have a tech career
+- 🌱 I’m currently learning DevOps and Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
