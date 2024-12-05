@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vernwalker
-- 👀 I’m aspire to have a tech career
+- 👀 I’m aspire to have a learn more technology
 - 🌱 I’m currently learning DevOps and Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
